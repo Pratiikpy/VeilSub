@@ -18,6 +18,7 @@ Usersprate*
 
 # Reference repos (not part of project)
 aleo-reference-projects/
+reference-repos/
 
 # Lock files
 /package-lock.json
